@@ -14,6 +14,7 @@ src/config.status
 # Compiled Binaries
 src/addpattern
 src/asustrx
+src/autom4te.cache/*
 src/bff/bff_huffman_decompress
 src/cramfs-2.x/cramfsck
 src/cramfs-2.x/mkcramfs
